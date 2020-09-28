@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<gs>
+        <!-- Instant Messaging -->
+    <p att="com.tencent.mm"></p>
+    <p att="com.xiaomi.channel"></p>
+    <p att="com.immomo.momo"></p>
+    <p att="com.tencent.mobileqq"></p>
+    <p att="com.feinno.felio"></p>
+    <p att="net.iaround"></p>
+    <p att="com.sina.weibo"></p>
+    <p att="com.tencent.qqphonebook"></p>
+    <p att="com.tencent.Wblog"></p>
+    <p att="net.iaround"></p>
+    <p att="cn.com.fetion"></p>
+    <p att="com.yx"></p>
+    <p att="com.alibaba.mobileim"></p>
+    <p att="com.snda.youni"></p>
+    <p att="com.sg.sledog"></p>
+    <p att="jp.naver.line.android"></p>
+    <p att="com.weico.sinaweibo"></p>
+    <p att="me.imid.fuubo"></p>
+
+    <!-- other -->
+    <p att="com.changba"></p>
+    <p att="com.sohu.sohuvideo"></p>
+    <p att="com.asiainfo.android"></p>
+    <p att="com.systen.tongjiqi"></p>
+    <p att="com.whatsapp"></p>
+    <p att="com.rsupport.rs.activity.oneplus"></p>
+    <p att="com.rsupport.rs.activity.oppo"></p>
+    <p att="com.rsupport.rs.activity.oppoglobal"></p>
+    <p att="com.rsupport.rsperm.ao.a1th"></p>
+    <p att="com.rsupport.rs.activity.rsupport"></p>
+    <p att="com.rsupport.mvagent"></p>
+    <p att="com.rsupport.mvagent1"></p>
+    <p att="rsupport.AndroidViewer"></p>
+
+    <p att="com.oppo.wearable"></p>
+    <p att="com.oppo.ubeauty"></p>
+
+</gs>
